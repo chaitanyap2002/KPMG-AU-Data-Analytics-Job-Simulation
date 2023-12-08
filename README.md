@@ -7,8 +7,7 @@ Completed a simulation advising a client on customer targeting.
 Assessed data quality and completeness for analysis.
 Analyzed data to target high-value customers based on demographics and attributes.
 Developed dashboards to communicate findings with visuals.
-Team Member
-Name: Chaitanya Patil
+
 Role: Data Analytics Intern, KPMG
 Data Quality Analysis
 Identified Errors and Mitigation Recommendations
